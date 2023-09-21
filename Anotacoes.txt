@@ -1,0 +1,25 @@
+Spring Bot:
+- É possivel desenvolver aplicações enterprise, utilizando banco de , servidores de email, monitoramento de aplicações, aplicações web e API restful.
+
+Git:
+    - para criar o repositorio tem que entrar na pasta, abrir o bash e digitar "git init".
+        - git init --> inicializa repositorio na pasta local
+        - git add "arquivo" --> adiciona arquivo na pilha para ser feito o commit.
+        - git add . --> adiciona todos os arquivos na pasta atual para ser feito o commit.
+        - git commit -m "mensagem obrigatória" --> fazer commit para o github, não envia ainda para o github, precisa fazer o push.
+        - git status --> verificar quais arquivos estão na pilha para commit
+        - git remote add origin "url" --> define qual o repositorio do github serão enviados os arquivos.
+        - git remote -v --> mostra qual são os repositorios remotos
+        - git clone "url" --> baixar o repositorio que ta no github
+        - git pull --> atualiza o seu repositorio caso esteja sendo usado por mais pessoas, para não ter conflito, ele faz o merge dos arquivos
+        - git push --> manda os arquivos para o git
+
+
+Starters:
+
+    <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-web</artifactId>
+    </dependency>
+
+    funcionam como bibliotecas de funções especificas, como por exemplo o starter jpa que é o starter para mexer com dados.
