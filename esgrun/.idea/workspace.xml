@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48fc9502-0731-47f3-9b40-f6eb6a4a37c9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Anotações" beforeDir="false" afterPath="$PROJECT_DIR$/../Anotações" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="esgrun" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="11_criando_annotations_customizadas" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Vkfv6T01nAoyW0EW1XeY0GES4T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dougl\desenvolvimento\meus projetos\vendas\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.VendasApplication (1)">
+    <configuration name="VendasApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eduardogrun.VendasApplication" />
+      <module name="esgrun" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eduardogrun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VendasApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.dougllasfps.VendasApplication" />
+      <module name="vendas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.dougllasfps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VendasApplication (1)" />
+        <item itemvalue="Application.VendasApplication" />
+        <item itemvalue="Application.VendasApplication" />
+        <item itemvalue="Application.VendasApplication" />
+        <item itemvalue="Application.VendasApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48fc9502-0731-47f3-9b40-f6eb6a4a37c9" name="Default Changelist" comment="" />
+      <created>1579920408908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579920408908</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Configurações e Beans">
+      <created>1580080132702</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580080132702</updated>
+    </task>
+    <task id="LOCAL-00002" summary="injeção de dependências">
+      <created>1580083238012</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580083238012</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Configurações e Beans" />
+    <MESSAGE value="injeção de dependências" />
+    <MESSAGE value="Criando annotations customizadas de configuração" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando annotations customizadas de configuração" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2408" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1695308967298">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2408" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695308967298" />
+    <state x="2326" y="53" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1695302974126">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2326" y="53" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695302974126" />
+    <state x="2451" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1695302529853">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2451" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695302529853" />
+    <state width="1323" height="244" key="GridCell.Tab.0.bottom" timestamp="1695325488550">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="244" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695325488550" />
+    <state width="1323" height="244" key="GridCell.Tab.0.center" timestamp="1695325488550">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="244" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695325488550" />
+    <state width="1323" height="244" key="GridCell.Tab.0.left" timestamp="1695325488550">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="244" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695325488550" />
+    <state width="1323" height="244" key="GridCell.Tab.0.right" timestamp="1695325488550">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="244" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695325488550" />
+    <state x="2104" y="6" key="SettingsEditor" timestamp="1695385707603">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2104" y="6" key="SettingsEditor/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695385707603" />
+    <state x="2299" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1695385638784">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2299" y="188" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695385638784" />
+    <state x="2333" y="119" key="extract.method.dialog" timestamp="1695309771964">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2333" y="119" key="extract.method.dialog/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695309771964" />
+    <state x="2266" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1695305311970">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2266" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695305311970" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

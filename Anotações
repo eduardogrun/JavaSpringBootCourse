@@ -12,4 +12,4 @@ Git:
         - git remote -v --> mostra qual são os repositorios remotos
         - git clone "url" --> baixar o repositorio que ta no github
         - git pull --> atualiza o seu repositorio caso esteja sendo usado por mais pessoas, para não ter conflito, ele faz o merge dos arquivos
-        - git push --> manda os arquivos para o git
+        - git push origin master --> manda os arquivos para o git
