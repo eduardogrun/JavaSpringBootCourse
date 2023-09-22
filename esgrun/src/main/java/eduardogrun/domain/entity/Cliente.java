@@ -1,6 +1,7 @@
 package eduardogrun.domain.entity;
 
 import javax.persistence.*;
+import java.util.Set;
 
 @Entity
 @Table(name = "cliente") // é usado para quando o nome da tabela for diferente
@@ -10,8 +11,20 @@ public class Cliente {
     @GeneratedValue(strategy = GenerationType.AUTO)
     @Column(name = "id")
     private Integer id;
+
     @Column(name = "nome", length = 100) // não é necessario o (name = ""), o jpa entende que o nome da propriedade (private String nome) já é o nome da coluna
     private String nome;
+
+    @OneToMany( mappedBy = "cliente", fetch = FetchType.LAZY)      // cria a relação de um para muitos, um cliente para muitos pedidos
+    private Set<Pedido> pedidos;
+
+    public Set<Pedido> getPedidos() {
+        return pedidos;
+    }
+
+    public void setPedidos(Set<Pedido> pedidos) {
+        this.pedidos = pedidos;
+    }
 
     public Cliente() {
     }
