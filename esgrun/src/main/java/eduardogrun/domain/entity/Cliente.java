@@ -1,5 +1,7 @@
 package eduardogrun.domain.entity;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+
 import javax.persistence.*;
 import java.util.Set;
 
@@ -15,8 +17,20 @@ public class Cliente {
     @Column(name = "nome", length = 100) // não é necessario o (name = ""), o jpa entende que o nome da propriedade (private String nome) já é o nome da coluna
     private String nome;
 
+    @Column(name = "cpf", length = 11)
+    private String cpf;
+
+    @JsonIgnore
     @OneToMany( mappedBy = "cliente", fetch = FetchType.LAZY)      // cria a relação de um para muitos, um cliente para muitos pedidos
     private Set<Pedido> pedidos;
+
+    public String getCpf() {
+        return cpf;
+    }
+
+    public void setCpf(String cpf) {
+        this.cpf = cpf;
+    }
 
     public Set<Pedido> getPedidos() {
         return pedidos;

@@ -48,7 +48,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -127,10 +130,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="Criando annotations customizadas de configuração" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2408" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1695401737077">
+    <state x="2195" y="22" key="#Project_Structure" timestamp="1695507440291">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
-    <state x="2408" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695401737077" />
+    <state x="2195" y="22" key="#Project_Structure/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695507440291" />
+    <state x="2408" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1695511027464">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2408" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695511027464" />
     <state x="2326" y="53" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1695302974126">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
@@ -143,22 +150,22 @@
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state width="408" height="454" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695395714613" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1695403118545">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1695514303320">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695403118545" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1695403118545">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695514303320" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1695514303320">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695403118545" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1695403118544">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695514303320" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1695514303320">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695403118544" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1695403118545">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695514303320" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1695514303320">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695403118545" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695514303320" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1695395745180">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
@@ -175,14 +182,14 @@
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695395745180" />
-    <state x="2239" y="0" key="SettingsEditor" timestamp="1695400590553">
+    <state x="2042" y="0" key="SettingsEditor" timestamp="1695507103072">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
-    <state x="2239" y="0" key="SettingsEditor/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695400590553" />
-    <state x="2299" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1695385638784">
+    <state x="2042" y="0" key="SettingsEditor/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695507103072" />
+    <state x="2299" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1695507080298">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
-    <state x="2299" y="188" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695385638784" />
+    <state x="2299" y="188" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695507080298" />
     <state x="2333" y="119" key="extract.method.dialog" timestamp="1695309771964">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
@@ -195,21 +202,5 @@
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state x="2266" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1695305311970" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
